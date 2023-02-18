@@ -268,3 +268,5 @@ E:\C# Projects\ApiUniversity Refactoring\University\UniversityApiBackend\obj\Deb
 E:\C# Projects\ApiUniversity Refactoring\University\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.pdb
 E:\C# Projects\ApiUniversity Refactoring\University\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.genruntimeconfig.cache
 E:\C# Projects\ApiUniversity Refactoring\University\UniversityApiBackend\obj\Debug\net6.0\ref\UniversityApiBackend.dll
+E:\C# Projects\ApiUniversity Refactoring\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C# Projects\ApiUniversity Refactoring\University\UniversityApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
