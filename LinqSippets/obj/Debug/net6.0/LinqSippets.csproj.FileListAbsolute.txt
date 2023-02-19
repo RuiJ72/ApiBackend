@@ -1,0 +1,12 @@
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\bin\Debug\net6.0\LinqSippets.deps.json
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\bin\Debug\net6.0\LinqSippets.dll
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\bin\Debug\net6.0\LinqSippets.pdb
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.csproj.AssemblyReference.cache
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.AssemblyInfoInputs.cache
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.AssemblyInfo.cs
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.csproj.CoreCompileInputs.cache
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.dll
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\refint\LinqSippets.dll
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\LinqSippets.pdb
+E:\C# Projects\ApiUniversity Refactoring\University\LinqSippets\obj\Debug\net6.0\ref\LinqSippets.dll
