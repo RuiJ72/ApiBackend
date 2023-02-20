@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1WduZfL9P4IGcsBlBAaJwE3+zGXjqrE2w6LwWJfnYtTZURq00Dfyk1LWBuMSSSaNJmQn9loWNGySFsyEgFivg==",
+  "dgSpecHash": "PFLh0bwqyA8WOu1ekbM53Be8ZleVBn3dn1OM7fK98jLgF4LuT3eaVHLaE5A+8IsKNjkGfUVi1XeS6CdtrUlW+g==",
   "success": true,
-  "projectFilePath": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\LinqSippets\\LinqSippets.csproj",
+  "projectFilePath": "E:\\Recuperação da ApiBackend\\LinqSippets\\LinqSippets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

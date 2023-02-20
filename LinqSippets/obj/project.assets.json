@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\LinqSippets\\LinqSippets.csproj",
+      "projectUniqueName": "E:\\Recuperação da ApiBackend\\LinqSippets\\LinqSippets.csproj",
       "projectName": "LinqSippets",
-      "projectPath": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\LinqSippets\\LinqSippets.csproj",
+      "projectPath": "E:\\Recuperação da ApiBackend\\LinqSippets\\LinqSippets.csproj",
       "packagesPath": "C:\\Users\\rlago\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\LinqSippets\\obj\\",
+      "outputPath": "E:\\Recuperação da ApiBackend\\LinqSippets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rlago\\AppData\\Roaming\\NuGet\\NuGet.Config",

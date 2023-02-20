@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlPe2VC3LZ9Bv6WrQWctUAXeF/yiMwX3F2XDuYTdhJus6YxNl2L72A5K3U39/efrUXW8/VzfG51H0yF0nFPdMg==",
+  "dgSpecHash": "VLRKTVdQcIF3WFlVTQRvc+N8ggkp013x2L+4aVzoCFeOXiBzuCXd3qkmNDIiDktU5aUkdfWXR1GF5fy53gayTg==",
   "success": true,
-  "projectFilePath": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+  "projectFilePath": "E:\\Recuperação da ApiBackend\\UniversityApiBackend\\UniversityApiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rlago\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rlago\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

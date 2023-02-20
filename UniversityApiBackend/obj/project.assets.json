@@ -10334,11 +10334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+      "projectUniqueName": "E:\\Recuperação da ApiBackend\\UniversityApiBackend\\UniversityApiBackend.csproj",
       "projectName": "UniversityApiBackend",
-      "projectPath": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\UniversityApiBackend\\UniversityApiBackend.csproj",
+      "projectPath": "E:\\Recuperação da ApiBackend\\UniversityApiBackend\\UniversityApiBackend.csproj",
       "packagesPath": "C:\\Users\\rlago\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Projects\\ApiUniversity Refactoring\\University\\UniversityApiBackend\\obj\\",
+      "outputPath": "E:\\Recuperação da ApiBackend\\UniversityApiBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rlago\\AppData\\Roaming\\NuGet\\NuGet.Config",
