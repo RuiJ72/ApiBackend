@@ -27,6 +27,10 @@ builder.Services.AddJwtTokenServices(builder.Configuration);
 
 builder.Services.AddControllers();
 
+// 10. Intercionalization Services
+builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
+
+
 // 4. Adding Custom services (Folder Services)
 builder.Services.AddScoped<IStudentsService, StudentsService>();
 //TODO: Add the rest fo Services
@@ -93,6 +97,21 @@ builder.Services.AddCors(options =>
 
 
 var app = builder.Build();
+
+// 11. Adding Cultures to LOCALIZATION
+var supportedCultures = new[] { "en-US", "es-ES", "pt-PT" };
+var localizationOptions = new RequestLocalizationOptions().SetDefaultCulture(supportedCultures[0])
+        .SetDefaultCulture(supportedCultures[0])
+        .AddSupportedCultures(supportedCultures)
+        .AddSupportedUICultures(supportedCultures);
+
+         //  en - USA as Default
+
+// 12. Add Localization
+app.UseRequestLocalization(localizationOptions);
+
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

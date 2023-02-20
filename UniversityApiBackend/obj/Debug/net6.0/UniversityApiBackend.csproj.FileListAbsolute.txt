@@ -542,3 +542,16 @@ E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\refint\Univ
 E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.pdb
 E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.genruntimeconfig.cache
 E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\ref\UniversityApiBackend.dll
+E:\Recuperação da ApiBackend\UniversityApiBackend\bin\Debug\net6.0\en-US\UniversityApiBackend.resources.dll
+E:\Recuperação da ApiBackend\UniversityApiBackend\bin\Debug\net6.0\es-ES\UniversityApiBackend.resources.dll
+E:\Recuperação da ApiBackend\UniversityApiBackend\bin\Debug\net6.0\pt-PT\UniversityApiBackend.resources.dll
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.Resources.Entities.SharedResource.en-ES.resources
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.Resources.Controllers.PostsController.en-US.resources
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.Resources.Controllers.PostsController.es-ES.resources
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.Resources.Controllers.PostsController.pt-PT.resources
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.Resources.Entities.SharedResource.en-US.resources
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.Resources.Entities.SharedResource.pt-PT.resources
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\UniversityApiBackend.csproj.GenerateResource.cache
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\en-US\UniversityApiBackend.resources.dll
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\es-ES\UniversityApiBackend.resources.dll
+E:\Recuperação da ApiBackend\UniversityApiBackend\obj\Debug\net6.0\pt-PT\UniversityApiBackend.resources.dll
